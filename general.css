@@ -1,0 +1,7 @@
+textarea { height:200px; width:68%;}
+.content-wrapper {padding:60px 0;} 
+.counts{ font-weight:bold;}
+.other-tools li { list-style:none;}
+.share-image { width:35%; text-align:center; left:0; right:0; margin:0 auto}
+.red { color:#c82224}
+@media (max-width:760px){ textarea { height:150px; } .content-wrapper {padding:16px 0;} .team-area-top {     padding-top: 16px;} .btn { margin:5px}}
